@@ -15,3 +15,7 @@ A sleek and responsive weather application that allows users to search for real-
 - CSS3
 - JavaScript
 - OpenWeatherMap API
+
+## 🔗 Demo Link
+
+[Live Preview](https://weather-app-1805.netlify.app/)
